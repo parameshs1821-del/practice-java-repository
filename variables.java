@@ -11,7 +11,7 @@ public class variables{
         System.out.println("char value:"+f);
         System.out.println("float value:"+c);
         System.out.println("boolean result:"+d);
-        System.out.println("string value"+name);
+        System.out.println("string value:"+name);
 
 
     }}
